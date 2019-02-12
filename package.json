@@ -1,12 +1,13 @@
 {
-  "name": "{{name}}",
-  "author": "{{author}}",
-  "version": "{{version}}",
-  "description": "{{description}}",
+  "name": "fx-template",
+  "author": "Louis",
+  "version": "1.0.0",
+  "description": "fx project template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fx-libs/fx-template.git"
