@@ -1,0 +1,19 @@
+{
+  "name": "{{name}}",
+  "author": "{{author}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fx-libs/fx-template.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fx-libs/fx-template/issues"
+  },
+  "homepage": "https://github.com/fx-libs/fx-template#readme"
+}
